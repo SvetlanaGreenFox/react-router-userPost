@@ -1,0 +1,28 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "debug": "^4.3.4",
+    "events": "^3.3.0",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
+    "lodash": "4.17.21",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-router": "6.7.0",
+    "react-router-config": "5.1.1",
+    "react-router-dom": "6.7.0",
+    "router-dom": "2.2.9",
+    "zlib": "^1.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
